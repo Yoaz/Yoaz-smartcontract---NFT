@@ -1,0 +1,8 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+go-ipfs_v0.13.0_darwin-amd64.tar.gz
+/go-ipfs

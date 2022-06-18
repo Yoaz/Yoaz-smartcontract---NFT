@@ -1,0 +1,11 @@
+{
+    "name": "SHIBA-INU",
+    "description": "a cute SHIBA-INU",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYx6GsYAKnNzZ9A6NvEKV9nf1VaDzJrqDR23Y8YSkebLU",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}
